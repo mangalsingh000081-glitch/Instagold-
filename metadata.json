@@ -1,0 +1,6 @@
+{
+  "name": "Instagold",
+  "description": "Exclusive premium social media platform with black-and-gold aesthetics, stories, discover masonry, AI captions, translation & messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
